@@ -1,0 +1,6 @@
+{
+  "Portfolio.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\2025.12.31\\Project-1\\PortfolioApi\\PortfolioApi",
+  "Portfolio.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\2025.12.31\\Project-1\\PortfolioApi\\Portfolio.Application",
+  "Portfolio.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\2025.12.31\\Project-1\\PortfolioApi\\Portfolio.Domain",
+  "Portfolio.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\2025.12.31\\Project-1\\PortfolioApi\\Portfolio.Infrastructure"
+}

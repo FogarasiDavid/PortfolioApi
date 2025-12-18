@@ -1,0 +1,31 @@
+version: '3.4'
+
+services:
+  portfolio-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: portfolio-db
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong!Passw0rd 
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlvolume:/var/opt/mssql 
+
+  portfolio-api:
+    image: portfolio-api
+    container_name: portfolio-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080" # 
+    depends_on:
+      - portfolio-db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+      - ConnectionStrings__DefaultConnection=Server=portfolio-db;Database=PortfolioDb;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=True;
+
+volumes:
+  sqlvolume:

@@ -1,0 +1,17 @@
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.deps.json
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.runtimeconfig.json
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.dll
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.pdb
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Domain.dll
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\bin\Debug\net8.0\Portfolio.Domain.pdb
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.AssemblyReference.cache
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfoInputs.cache
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfo.cs
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.CoreCompileInputs.cache
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfoli.B086831A.Up2Date
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.dll
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\refint\Portfolio.Application.dll
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.pdb
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.genruntimeconfig.cache
+D:\2025.12.31\Project-1\PortfolioApi\Portfolio.Application\obj\Debug\net8.0\ref\Portfolio.Application.dll
